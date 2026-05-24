@@ -15,3 +15,6 @@ Este projeto simula um semáforo de trânsito (Vermelho, Amarelo e Verde) contro
 * 3x Resistores de 220 Ω (para os LEDs)
 * 1x Resistor de 10k Ω (para o botão)
 * 1x Botão (Pushbutton)
+
+## Link do Projeto: 
+https://www.tinkercad.com/things/3TIcRuQPm3V-semaforo?sharecode=TaRZMWMHnNPXa70o9p0BN2QIYe0Z3Lt0FSAl9cXBEao
